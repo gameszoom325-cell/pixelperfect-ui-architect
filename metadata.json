@@ -1,0 +1,6 @@
+{
+  "name": "Contract2Action AI",
+  "description": "Enterprise Contract Intelligence Platform — Transform static legal contracts into automated actionable workflows, obligation tracking, clause risk analysis, and governance approvals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
